@@ -6,6 +6,6 @@ import org.springframework.stereotype.Service;
 @Service
 public class MessageService {
     public Message getWelcomeMessage() {
-        return new Message("Welcome to Spring Boot!");
+        return new Message("Welcome to Java Maven Spring Boot Web Application!");
     }
 }
